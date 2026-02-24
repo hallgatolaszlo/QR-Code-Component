@@ -54,8 +54,7 @@ main {
 	height: 499px;
 	background-color: var(--white);
 	border-radius: 20px;
-	padding: 16px;
-	padding-bottom: 40px;
+	padding: 16px 16px 40px 16px;
 	display: flex;
 	flex-direction: column;
 	gap: 24px;
