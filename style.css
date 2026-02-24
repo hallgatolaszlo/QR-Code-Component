@@ -28,6 +28,7 @@
 	letter-spacing: 0px;
 	font-style: normal;
 	font-weight: bold;
+	color: var(--slate-900);
 }
 
 .outfit-regular {
@@ -36,6 +37,7 @@
 	line-height: 140%;
 	letter-spacing: 0.2px;
 	font-style: normal;
+	color: var(--slate-500);
 }
 
 body {
