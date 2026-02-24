@@ -66,3 +66,11 @@ main {
 	aspect-ratio: 1/1;
 	border-radius: 10px;
 }
+
+.qr-card-text {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+	padding-left: 16px;
+	padding-right: 16px;
+}
